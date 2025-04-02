@@ -9,4 +9,5 @@ En este repositorio se almacenarán Google Colab y Código de R para el curso de
 ## Fuentes de información
 [Awesome Data Chile](https://github.com/imfd/awesome-data-chile) Lista curada de fuentes de datos públicas sobre Chile.
 
-
+## Datasets
+[Tidytuesday](https://github.com/rfordatascience/tidytuesday) Dataset reales para comenzar a aprender de análisis de datos
