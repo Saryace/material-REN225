@@ -10,8 +10,11 @@ En este repositorio se almacenarán Google Colab y Código de R para el curso de
 [Awesome Data Chile](https://github.com/imfd/awesome-data-chile) Lista curada de fuentes de datos públicas sobre Chile.
 
 ### Estaciones meteorológicas
-[Agrometeorología](https://agrometeorologia.cl/) 422 estaciones meteorológicas de la red INIA
-[DGAC](https://climatologia.meteochile.gob.cl/) Estaciones DGAC 
+1. [Agrometeorología](https://agrometeorologia.cl/) 422 estaciones meteorológicas de la red INIA
+2. [DGAC](https://climatologia.meteochile.gob.cl/) Estaciones DGAC
+
+### Datos sociales
+1. [Observatorio Social](https://observatorio.ministeriodesarrollosocial.gob.cl/) Datos del Ministerio de Desarrollo Social y Familia
 
 
 ## Datasets
