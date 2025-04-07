@@ -6,8 +6,8 @@ En este repositorio se almacenarán Google Colab y Código de R para el curso de
 1. [Random](https://github.com/Saryace/material-REN225/blob/main/random_ren225.ipynb)
 2. [Tipos de datos](https://colab.research.google.com/drive/1Dl2J4pU1n9awcH8ycusfSIo0ZEe9oNye#scrollTo=eYSVPFjCP6W6)
 
-## Fuentes de información
-[Awesome Data Chile](https://github.com/imfd/awesome-data-chile) Lista curada de fuentes de datos públicas sobre Chile.
+### Fuentes de información generales
+[Awesome Data Chile](https://github.com/imfd/awesome-data-chile) Lista curada de fuentes de datos públicas sobre Chile (Desactualizada)
 
 ### Estaciones meteorológicas
 1. [Agrometeorología](https://agrometeorologia.cl/) 422 estaciones meteorológicas de la red INIA
@@ -16,6 +16,8 @@ En este repositorio se almacenarán Google Colab y Código de R para el curso de
 ### Datos sociales
 1. [Observatorio Social](https://observatorio.ministeriodesarrollosocial.gob.cl/) Datos del Ministerio de Desarrollo Social y Familia
 
+### Desastres naturales
+[CONAF-incendios](https://www.conaf.cl/centro-documentals/estadisticas-historicas/) Estadísticas de ocurrencia, distribución y magnitud incendios
 
 ## Datasets
 [Tidytuesday](https://github.com/rfordatascience/tidytuesday) Dataset reales para comenzar a aprender de análisis de datos
