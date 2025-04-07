@@ -1,6 +1,6 @@
 # Curso REN225 - Metodologías de la Investigación
 Bienvenid@s! 
-En este repositorio se almacenarán Google Colab y Código de R para el curso de REN225
+En este repositorio se almacenarán Google Colabs, datos y Código de R para el curso de REN225
 
 ## Google Colab-Notebooks
 1. [Random](https://github.com/Saryace/material-REN225/blob/main/random_ren225.ipynb)
@@ -17,7 +17,7 @@ En este repositorio se almacenarán Google Colab y Código de R para el curso de
 1. [Observatorio Social](https://observatorio.ministeriodesarrollosocial.gob.cl/) Datos del Ministerio de Desarrollo Social y Familia
 
 ### Desastres naturales
-[CONAF-incendios](https://www.conaf.cl/centro-documentals/estadisticas-historicas/) Estadísticas de ocurrencia, distribución y magnitud incendios
+1. [CONAF-incendios](https://www.conaf.cl/centro-documentals/estadisticas-historicas/) Estadísticas de ocurrencia, distribución y magnitud incendios
 
-## Datasets
-[Tidytuesday](https://github.com/rfordatascience/tidytuesday) Dataset reales para comenzar a aprender de análisis de datos
+## Dataset juguete
+1. [Tidytuesday](https://github.com/rfordatascience/tidytuesday) Dataset reales para comenzar a aprender de análisis de datos
